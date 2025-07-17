@@ -1,0 +1,9 @@
+numpy
+pandas
+dash
+dash-leaflet
+plotly
+pvlib
+geopy
+pytz
+requests
